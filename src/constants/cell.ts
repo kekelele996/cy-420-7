@@ -1,1 +1,1 @@
-export enum CellType { EMPTY='empty', TRAIL='trail', TERRITORY='territory' }
+export enum CellType { EMPTY='empty', TRAIL='trail', TERRITORY='territory', OBSTACLE='obstacle' }
